@@ -61,3 +61,4 @@ Get an API Key [here](https://maclookup.app/api-v2/plans)
     // let apiClient = new APIClient('',timeout);
     apiClient.withCache(new LRUCache())
 ```
+1
